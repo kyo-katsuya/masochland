@@ -7,15 +7,15 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "新生MASOCHLAND"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "katsuya"
+    bio = "PassCode/miscast"
     avatar = "img/avatar.png"
 
 [Params]
