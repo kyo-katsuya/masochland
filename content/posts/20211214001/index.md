@@ -10,5 +10,5 @@ menu: main
 ガッツリ仕事のこととかも書くけど趣味のことも書いていこうと思う！
 
 テンプレートは[こちら](https://zenn.dev/kato_k/articles/66531db0c4024d)を使わせてもらった！
-
+markdownで書けるから便利？だね。
 
